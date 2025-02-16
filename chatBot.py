@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-api = 'AIzaSyAxMkkOgBp8dhwSFSC8FeFr2ZnIbAfZ4YQ'
+api = 'Your API Key'
 
 st.title('Google AI Text Generation')
 
